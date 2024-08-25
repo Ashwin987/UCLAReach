@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253719261764",
+    "project_id": "studentxchange-f94db",
+    "storage_bucket": "studentxchange-f94db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253719261764:android:ad968165cb9fc77eb88211",
+        "android_client_info": {
+          "package_name": "com.example.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrMu4wnH7y3K6T1CYeOYTmypCUOmn8wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
